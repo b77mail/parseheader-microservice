@@ -1,3 +1,7 @@
+app/common/
+app/config/
+app/models/
+public/
 node_modules/
 .eslintrc
 .env
